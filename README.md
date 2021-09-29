@@ -9,7 +9,7 @@ Capstone Project is the group project with team members from a diverse experienc
 ## Introduction 
 
 
-## Techniques
+## Methods
 
 Techniques will be used such as: 
 Django Back-End Development,
