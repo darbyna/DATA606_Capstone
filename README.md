@@ -22,6 +22,18 @@ HTML, CSS, and Javascript for the Front-End.
 
 ## Results 
 
+### Washington, DC Compiled Pollutant Statistics
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/download%20(8).png?raw=true)
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/download%20(9).png?raw=true)
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/download%20(10).png?raw=true)
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/download%20(11).png?raw=true)
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/download%20(12).png?raw=true)
+
 
 ## Discussion and Conclusion
 
