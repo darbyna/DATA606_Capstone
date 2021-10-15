@@ -33,7 +33,9 @@
 - ##### We have used Machine Learning Technique to figure out the correlation between the species of Pollutant. 
 
 ### Data Visualization
-- Explain
+
+##### The Python package known as Matplotlib was utilized to construct figures during each analysis. Figures such as box charts, scatter plots, bar plots, and matrices were constructed to allow end-users the ability to visualize and comprehend the attained results. 
+
 
 ### Django Backend Development
 HTML, CSS, and Javascript for the Front-End.
