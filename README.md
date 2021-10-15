@@ -35,7 +35,7 @@
 
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/Table.PNG?raw=true)
 ### Linear Regression
-- ##### We have used Machine Learning Technique 
+- ##### We have used Machine Learning Technique to figure out the correlation between the species of Pollutant. 
 ### Receive Operator Characteristic (ROC) Analysis
 - Explain
 ### Data Visualization
