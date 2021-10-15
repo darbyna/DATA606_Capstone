@@ -3,7 +3,7 @@
 
 ## Abstract
 
-##### COVID-19 (SARS-COV-2) is a respiratory virus that has the capability to cause pneumonic symptoms and death amongst patients. Thus far, in the United States of America there have been over 650K deaths during the SARS-COV-2 pandemic. Confounding factors such as pollutants can have an effect on the rate of illness amongst infectants. In this particular study, we will be examining the pollutant known as particulate matter 2.5 (PM2.5). Particulate Matter 2.5 (PM2.5) is a carcinogen that is known to cause epigenetic and genetic alterations that can lead to severe illness. Majority of the illnesses that derive from particulate matter 2.5 are respiratory and cardiovascular based. This is significant since COVID-19 also affects the respiratory and cardiovascular sectors of conspecifics.  Rather high concentrations of particulate matter 2.5 have been witnessed in several sectors of the United States of America. We will be examining the influx of particulate matter 2.5 in the Washington, DC area during the COVID-19 pandemic in comparison to alternative pollutants. It is predicted that Particulate Matter 2.5 concentrations should decrease during the COVID-19 pandemic and we predict that there will be an increase during the re-opening of the economy in late 2020 and 2021 onward. 
+##### COVID-19 (SARS-COV-2) is a respiratory virus that has the capability to cause pneumonic symptoms and death amongst patients. Thus far, in the United States of America there have been over 650K deaths during the SARS-COV-2 pandemic. Confounding factors such as pollutants can have an effect on the rate of illness amongst infectants. In this particular study, we will be examining the pollutant known as particulate matter 2.5 (PM2.5). Particulate Matter 2.5 (PM2.5) is a carcinogen that is known to cause epigenetic and genetic alterations that can lead to severe illness. Majority of the illnesses that derive from particulate matter 2.5 are respiratory and cardiovascular based. This is significant since COVID-19 also affects the respiratory and cardiovascular sectors of conspecifics.  Rather high concentrations of particulate matter 2.5 have been witnessed in several sectors of the United States of America. We will be examining the influx of particulate matter 2.5 in the Washington, DC area during the COVID-19 pandemic in comparison to alternative pollutants. We hypothesize that Particulate Matter 2.5 concentrations should decrease during the COVID-19 pandemic and that there will be an increase during the re-opening of the economy in late 2020 and 2021 onward. 
 
 ###### Note:
 ###### Capstone Project is the group project with team members from a diverse experience and bachground. We try to Investigation of Particulate Matter 2.5, 10 and gases() presence in the DMV area for the span of 5 years. Our Aim is to Investigate Particulate Matter and Gases concentrations in the DMV area during the COVID-19 pandemic and predict the trends over various spans of time preceeding during and post pandemic. The data will be procured from the United States Environmental Protection Agency (EPA)
@@ -11,15 +11,25 @@
 
 ## Introduction 
 
+#### COVID-19 (Sars-COV-2) is a pneumonic-based respiratory virus that originated in Wuhan, China. COVID-19 has led to a pandemic with over six-hundred fifty thousand deaths in the United States of America and over four million deaths globally. This virus has been observed to have major effects on the respiratory and cardiovascular systems of infectants (). Symptoms of COVID-19 include tussis, fatigure, fibrous aches, pyrexia or chills, or more (). Individuals with pre-existing disorders such as obesity, cardiovascular disease, or respiratory disorders are considered at-risk as they are more prone to fatality via COVID-19 ().  With COVID-19 mutating and thus having multiple variant iterations, the virus will continue to become more potent and cause more deaths across the globe. Unfortunately, not only will the novel variants of COVID-19 lead to omnipotency, but confounding factors such as pollutant concentrations will as well. In this manuscript, we will focus primarily on the respiratory aspects of COVID-19 by observing trends of the common pollutant known as  Particulate Matter 2.5 and other confounding pollutants during the COVID-19 pandemic.
+
+#### Particulate Matter 2.5 is a particle that is less than 2.5 micrometers large (). Particulate Matter 2.5 commonly derives from automobiles, construction, and deforestation (). This particular pollutant can cause major health disorders within conspecifics upon inhalation (). Disorders that arise from particular matter 2.5 exposure includes lung cancer and other respiratory disorders (). Particulate matter 2.5 has been observed to have major effects on conspecifics that have asthma and any alternative respiratory disorders (). As a result of particulate matter 2.5 being a major contributing factor for respiratory disorders, it is essential to observe how particulate matter 2.5 can affect victims of COVID-19. When conspecifics are exposed to particulate matter 2.5, the transmission of COVID-19 increases significantly (). Particulate matter 2.5 is a known contributor for the enhanced transmission of COVID-19 (). In fact, it has been observed that particulate matter 2.5 particles contain COVID-19 viral fragments that can promote the spread of the virus (). In essence, not only is particulate matter 2.5 known for promoting oncogenesis, but it can also promote the matriculation of COVID-19. 
+
+#### Resultantly, while observing the trends of COVID-19 throughout the 2019-2020 period, we hypothesize that in the Washington, District of Columbia, area, PM2.5 will show a decrease during the earlier periods of the COVID-19 pandemic. However, in the later periods of 2020, the PM2.5 concentrations will begin to increase due to elevated human activity. PM 2.5 concentrations will be observed in relation to alternative pollutants such as Nitrogen Dioxide, Carbon Monoxide, and Sulfur Dioxide within the Washington, D.C. area from the periods of 2015-2020 to procure an accurate depiction of how PM 2.5 altered during the pandemic. PM 2.5 concentrations will correlate with the air quality trends and trends of COVID-19 cases and deaths. 
+
 
 ## Methods
 
-Techniques will be used such as: 
-Django Back-End Development,
-Exploratory Data Analysis,
-Linear Regression,
-Receive Operator Characteristic (ROC) Analysis, 
-Data Visualization of Each Model on the Front-End,
+### Exploratory Data Analysis
+- Explain
+### Linear Regression
+- Explain
+### Receive Operator Characteristic (ROC) Analysis
+- Explain
+### Data Visualization
+- Explain
+
+### Django Backend Development
 HTML, CSS, and Javascript for the Front-End.
 
 
@@ -42,6 +52,6 @@ HTML, CSS, and Javascript for the Front-End.
 
 ## Discussion and Conclusion
 
-
+* Will be completed at end of project *
 
 ## Citations
