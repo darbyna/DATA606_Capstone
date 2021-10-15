@@ -30,7 +30,7 @@
 
 
 ### Linear Regression
-- ##### We have used Machine Learning Technique to figure out the correlation between the species of Pollutant. 
+##### Machine learning with Scikit-learn was utilized to determine the correlation between Particulate Matter 2.5, other confounding pollutants (NO2, SO2, CO), Air Quality Index, and COVID-19 mortalities. As a result of multiple features being utilized in this analysis that are potentially correlated, the linear regression analysis will be conducted while taking multicolinearity into consideration. 
 
 ### Data Visualization
 
