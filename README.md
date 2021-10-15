@@ -71,7 +71,7 @@ HTML, CSS, and Javascript for the Front-End.
 * Will be completed at end of project *
 
 ## Citations
-
+* Convert to proper format when time allows - Before the end of the project *
 https://www.sciencedirect.com/science/article/pii/S2213260021000953
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236240
 https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.120.046941
