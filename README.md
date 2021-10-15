@@ -31,8 +31,7 @@
 
 ### Linear Regression
 - ##### We have used Machine Learning Technique to figure out the correlation between the species of Pollutant. 
-### Receive Operator Characteristic (ROC) Analysis
-- Explain
+
 ### Data Visualization
 - Explain
 
