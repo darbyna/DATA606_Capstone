@@ -21,7 +21,7 @@
 ## Methods
 
 ### Exploratory Data Analysis
-- The connection between major pollutants(PM2.5 and NO2) and the Air Quality Index is the focus of the Exploratory Data Analysis 
+- ##### The connection between major pollutants(PM2.5 and NO2) and the Air Quality Index, correlation between the pollutants and the relation to Covid-19 are the focus areas of the Exploratory Data Analysis. The studies have suggested that the Exposure to indoor and outddor pollution can cause adverse health effects and increase in non communicable diseases. We collected Data from the EPA and We conducted a statistical analysis that confirms possible correlations among the number of daily cases and several factors related to the air quality(Andrea et al.)
 ### Linear Regression
 - Explain
 ### Receive Operator Characteristic (ROC) Analysis
