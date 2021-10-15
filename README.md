@@ -66,7 +66,10 @@ HTML, CSS, and Javascript for the Front-End.
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/Mean_Concentration_by_Longitude.png?raw=true)
 
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/Table.PNG?raw=true)
-
+![result-1](https://user-images.githubusercontent.com/90915655/137561550-6bc7c691-2779-440a-9ced-5a799a75ba53.jpg)
+![result-3](https://user-images.githubusercontent.com/90915655/137561571-b941c4fb-99fb-468a-a3e0-e5111c5d7995.jpg)
+![result-4](https://user-images.githubusercontent.com/90915655/137561582-65823ceb-5800-44c0-82f5-787bde562f55.jpg)
+![result-5](https://user-images.githubusercontent.com/90915655/137561586-0099f290-e62f-47bd-92f0-48d549634c86.jpg)
 
 ## Discussion and Conclusion
 
