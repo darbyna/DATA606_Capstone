@@ -39,6 +39,12 @@ HTML, CSS, and Javascript for the Front-End.
 
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/CPST.JPG?raw=true)
 
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/CPCP.JPG?raw=true)
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/CPCPCP.JPG?raw=true)
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/CORR.JPG?raw=true)
+
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/download%20(12).png?raw=true)
 
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/Heatmap-DC.png?raw=true)
