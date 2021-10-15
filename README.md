@@ -20,6 +20,9 @@
 
 ## Methods
 
+### Data
+##### The data for this investigation was procured from multiple sources. The pollutant and GIS mapping data data for PM2.5, PM10, SO2, NO2, and CO was procured from the Environmental Protection Agency's (EPA) Open Air Quality dataset. Combined, the pollutant dataset comprised of over 30K data points. Upon being condensed, the dataset simply comprised of 70 rows of data. COVID-19 related data was procured from the Johns Hopkins University GitHub portal. The COVID-19 dataset consists of >800K data points. 
+
 ### Exploratory Data Analysis
 ##### The connection between major pollutants(PM2.5 and NO2) and the Air Quality Index, correlation between the species of pollutants and the relation to Covid-19 are the focus areas of the Exploratory Data Analysis. Our Aim is twofold, first to understand the relation between the species of pollutants and second is to understand the relation between the pollutants and the Covid-19. We collected Data from the EPA (To assess the relationship between air pollutant concentrations and COVID-19 fatality in District of Columbia state,we employ daily data at the city level)and We conducted a statistical analysis that confirms possible correlations among the number of daily cases and several factors related to the air quality(Andrea et al.)This work reports a correlation analysis, which is a statistical study that evaluates thestrength and the sign of a relationship between variables i.e between the species of pollutants, mean concentration of pollutants and Air Quality Index(AQI) between 2015 to 2020. On observing the data of PM2.5 we found the boxplot of the "Daily Mean Concentration" and "Daily AQI Value" as in the given figures. 
 ##### We also observed the PM2.5 concentration as per Lattitude and Longitude.
