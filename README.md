@@ -29,12 +29,11 @@
 ##### We also observed the PM2.5 concentration as per Lattitude and Longitude.
 
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/Mean_Concentration_by_Latitude.png?raw=true)
-
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/Mean_Concentration_by_Longitude.png?raw=true)
 
+##### We combined the PM2.5 with the other gaseous pollutants and formed a Table, As mentioned in part I , Initially the dataset containing 879531 Columns and 29 Rows were Collected from Environmental Protection Agency (EPA). Based on the data science process, The large data set has many attributes some of which are irrelevant to data mining or some are redundant. The attribute subset selection reduces the volume of data by eliminating the redundant and irrelevant attribute and gives us the following Table
 
-
-
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/Table.PNG?raw=true)
 ### Linear Regression
 - ##### We have used Machine Learning Technique 
 ### Receive Operator Characteristic (ROC) Analysis
