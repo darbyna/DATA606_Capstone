@@ -21,7 +21,7 @@
 ## Methods
 
 ### Exploratory Data Analysis
-- Explain
+- The connection between major pollutants(PM2.5 and NO2) and the Air Quality Index is the focus of the Exploratory Data Analysis 
 ### Linear Regression
 - Explain
 ### Receive Operator Characteristic (ROC) Analysis
