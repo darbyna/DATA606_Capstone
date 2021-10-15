@@ -23,17 +23,12 @@
 ### Exploratory Data Analysis
 - ##### The connection between major pollutants(PM2.5 and NO2) and the Air Quality Index, correlation between the species of pollutants and the relation to Covid-19 are the focus areas of the Exploratory Data Analysis. Our Aim is twofold, first to understand the relation between the species of pollutants and second is to understand the relation between the pollutants and the Covid-19. We collected Data from the EPA (To assess the relationship between air pollutant concentrations and COVID-19 fatality in District of Columbia state,we employ daily data at the city level)and We conducted a statistical analysis that confirms possible correlations among the number of daily cases and several factors related to the air quality(Andrea et al.)This work reports a correlation analysis, which is a statistical study that evaluates thestrength and the sign of a relationship between variables i.e between the species of pollutants, mean concentration of pollutants and Air Quality Index(AQI) between 2015 to 2020. On observing the data of PM2.5 we found the boxplot of the "Daily Mean Concentration" and "Daily AQI Value" as in the given figures. 
 
-![](https://github.com/darbyna/DATA606_Capstone/blob/main/Fig1.png?raw=true)
-![](https://github.com/darbyna/DATA606_Capstone/blob/main/Fig2.png?raw=true)
-
 ##### We also observed the PM2.5 concentration as per Lattitude and Longitude.
 
-![](https://github.com/darbyna/DATA606_Capstone/blob/main/Mean_Concentration_by_Latitude.png?raw=true)
-![](https://github.com/darbyna/DATA606_Capstone/blob/main/Mean_Concentration_by_Longitude.png?raw=true)
 
 ##### We combined the PM2.5 with the other gaseous pollutants and formed a Table, As mentioned in part I , Initially the dataset containing 879531 Columns and 29 Rows were Collected from Environmental Protection Agency (EPA). Based on the data science process, The large data set has many attributes some of which are irrelevant to data mining or some are redundant. The attribute subset selection reduces the volume of data by eliminating the redundant and irrelevant attribute and gives us the following Table
 
-![](https://github.com/darbyna/DATA606_Capstone/blob/main/Table.PNG?raw=true)
+
 ### Linear Regression
 - ##### We have used Machine Learning Technique to figure out the correlation between the species of Pollutant. 
 ### Receive Operator Characteristic (ROC) Analysis
@@ -60,6 +55,16 @@ HTML, CSS, and Javascript for the Front-End.
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/download%20(12).png?raw=true)
 
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/Heatmap.png?raw=true)
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/Fig1.png?raw=true)
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/Fig2.png?raw=true)
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/Mean_Concentration_by_Latitude.png?raw=true)
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/Mean_Concentration_by_Longitude.png?raw=true)
+
+![](https://github.com/darbyna/DATA606_Capstone/blob/main/Table.PNG?raw=true)
 
 
 ## Discussion and Conclusion
