@@ -51,46 +51,48 @@ HTML, CSS, and Javascript for the Front-End.
 #### Figure 2: Average Pollutant Concentrations
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/CPCP.JPG?raw=true)
 
+
 #### Figure 3: Pollutant Concentrations in Washington, DC
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/CPCPCP.JPG?raw=true)
 
-<!-- ![](https://github.com/darbyna/DATA606_Capstone/blob/main/CORR.JPG?raw=true) -->
+
 
 #### Figure 4: Pollutant Concentrations and Relative Air Quality Indices
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/download%20(12).png?raw=true)
 
 
+
 #### Figure 5: Matrix of PM2.5 in Relation to Air Quality Index
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/Heatmap.png?raw=true)
 
-<!-- ![](https://github.com/darbyna/DATA606_Capstone/blob/main/Fig1.png?raw=true)
-
-![](https://github.com/darbyna/DATA606_Capstone/blob/main/Fig2.png?raw=true)
-
-![](https://github.com/darbyna/DATA606_Capstone/blob/main/Mean_Concentration_by_Latitude.png?raw=true)
-
-![](https://github.com/darbyna/DATA606_Capstone/blob/main/Mean_Concentration_by_Longitude.png?raw=true)
-
-![](https://github.com/darbyna/DATA606_Capstone/blob/main/Table.PNG?raw=true) -->
 
 
 #### Figure 6: Ordinal Least Squares (OLS) Predictive Model of PM2.5 (2015-2021)
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/OLS.JPG?raw=true)
 
+
+
 #### Figure 7: OLS Model Results
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/Screenshot%202021-10-27%20132116.png?raw=true)
 
 
+
 #### Figure 8: Linear Regression Model of PM2.5 and COVID-19 Deaths
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/linmod.JPG?raw=true)
+
+
 
 #### Figure 9: COVID-19 and Pollutants Intelligence Charts
 ![result-1](https://user-images.githubusercontent.com/90915655/137561550-6bc7c691-2779-440a-9ced-5a799a75ba53.jpg)
 ![result-3](https://user-images.githubusercontent.com/90915655/137561571-b941c4fb-99fb-468a-a3e0-e5111c5d7995.jpg)
 ![result-4](https://user-images.githubusercontent.com/90915655/137561582-65823ceb-5800-44c0-82f5-787bde562f55.jpg)
 
+
+
 #### Figure 10: Matrix of Pollutants and COVID-19 Deaths
 ![result-5](https://user-images.githubusercontent.com/90915655/137561586-0099f290-e62f-47bd-92f0-48d549634c86.jpg)
+
+
 
 #### Figure 11: Preview of User Interface for Pollutant Analysis
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/PRPUIS.JPG?raw=true)
