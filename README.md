@@ -80,21 +80,26 @@ HTML, CSS, and Javascript for the Front-End.
 #### Figure 8: Linear Regression Model of PM2.5 and COVID-19 Deaths
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/linmod.JPG?raw=true)
 
-
+Figure 8 is a regression result depicting a corelation of PM2.5 and IncreaseDeath  due to Covid Panedmic.
 
 #### Figure 9: COVID-19 and Pollutants Intelligence Charts
-![result-1](https://user-images.githubusercontent.com/90915655/137561550-6bc7c691-2779-440a-9ced-5a799a75ba53.jpg)
-![result-3](https://user-images.githubusercontent.com/90915655/137561571-b941c4fb-99fb-468a-a3e0-e5111c5d7995.jpg)
+![result-1](https://user-images.githubusercontent.com/90915655/137561550-6bc7c691-2779-440a-9ced-5a799a75ba53.jpg)   
+![result-3](https://user-images.githubusercontent.com/90915655/137561571-b941c4fb-99fb-468a-a3e0-e5111c5d7995.jpg)  
 ![result-4](https://user-images.githubusercontent.com/90915655/137561582-65823ceb-5800-44c0-82f5-787bde562f55.jpg)
-
-
-
+   
+   #   Figure 9 shows the relationship of  Polutant gases and  IncreaseDeath  due to Covid Panedmic. On the first out put refers to the realtionship of all features and 
+       the target variable (Increase death). From the figure it can be observed that  both the features and the target are generally show similar trends.        
+       on the second output shows specifically the relationship of PM2.5 and IncecreathDeath. Both shows positve relationship. 
+       The output 69 shows the relationship between Carbon monoxide and Increasedeath. From the figure it can be seen that less effect of Carbon Monoxide againist the target. 
+       
 #### Figure 10: Matrix of Pollutants and COVID-19 Deaths
 ![result-5](https://user-images.githubusercontent.com/90915655/137561586-0099f290-e62f-47bd-92f0-48d549634c86.jpg)
 
-
+# The heat map depicting the relationship of the gaseous elements.From the graph, we can see that as one read from bottom to top -
+# bold green , shows strong correlation .N02 and CO have srtong correlation with PM2.5 and Covid death. 
 
 #### Figure 11: Preview of User Interface for Pollutant Analysis
+
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/PRPUIS.JPG?raw=true)
 
 ## Discussion and Conclusion
