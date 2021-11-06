@@ -3,7 +3,7 @@
 
 ## Abstract
 
-##### COVID-19 (SARS-COV-2) is a respiratory virus that has the capability to cause pneumonic symptoms and death amongst patients. Thus far, in the United States of America there have been over 650K deaths during the SARS-COV-2 pandemic. Confounding factors such as pollutants can have an effect on the rate of illness amongst infectants. In this particular study, we will be examining the pollutant known as particulate matter 2.5 (PM2.5). Particulate Matter 2.5 (PM2.5) is a carcinogen that is known to cause epigenetic and genetic alterations that can lead to severe illness. Majority of the illnesses that derive from particulate matter 2.5 are respiratory and cardiovascular based. This is significant since COVID-19 also affects the respiratory and cardiovascular sectors of conspecifics.  Rather high concentrations of particulate matter 2.5 have been witnessed in several sectors of the United States of America. We will be examining the influx of particulate matter 2.5 in the Washington, DC area during the COVID-19 pandemic in comparison to alternative pollutants. Our hypothesis was supported that our predictive model of Particulate Matter 2.5 concentrations should decrease during the COVID-19 pandemic and that there will be an increase during the re-opening of the economy in late 2020 and 2021 onward. 
+##### COVID-19 (SARS-COV-2) is a respiratory virus that has the capability to cause pneumonic symptoms and death amongst patients. Thus far, in the United States of America there have been over 650K deaths during the SARS-COV-2 pandemic. Confounding factors such as pollutants can have an effect on the rate of illness amongst infectants. In this particular study, we will be examining the pollutant known as particulate matter 2.5 (PM2.5). Particulate Matter 2.5 (PM2.5) is a carcinogen that is known to cause epigenetic and genetic alterations that can lead to severe illness. Majority of the illnesses that derive from particulate matter 2.5 are respiratory and cardiovascular based. This is significant since COVID-19 also affects the respiratory and cardiovascular sectors of conspecifics.  Rather high concentrations of particulate matter 2.5 have been witnessed in several sectors of the United States of America. We examined the influx of particulate matter 2.5 in the Washington, DC area during the COVID-19 pandemic in comparison to alternative pollutants. Our hypothesis was supported that our predictive model of Particulate Matter 2.5 concentrations should decrease during the COVID-19 pandemic and that there will be an increase during the re-opening of the economy in late 2020 and 2021 onward. The PRPUI analyzer was also constructed as a front-end user-interface for analyzing different pollutants.
 
 ###### Note:
 ###### Capstone Project is the group project with team members from a diverse experience and bachground. We try to Investigation of Particulate Matter 2.5, 10 and gases() presence in the DMV area for the span of 5 years. Our Aim is to Investigate Particulate Matter and Gases concentrations in the DMV area during the COVID-19 pandemic and predict the trends over various spans of time preceeding during and post pandemic. The data will be procured from the United States Environmental Protection Agency (EPA)
@@ -88,9 +88,11 @@ HTML, CSS, and Javascript for the Front-End.
 ![result-1](https://user-images.githubusercontent.com/90915655/137561550-6bc7c691-2779-440a-9ced-5a799a75ba53.jpg)
 ![result-3](https://user-images.githubusercontent.com/90915655/137561571-b941c4fb-99fb-468a-a3e0-e5111c5d7995.jpg)
 ![result-4](https://user-images.githubusercontent.com/90915655/137561582-65823ceb-5800-44c0-82f5-787bde562f55.jpg)
-![result-5](https://user-images.githubusercontent.com/90915655/137561586-0099f290-e62f-47bd-92f0-48d549634c86.jpg)
 
 #### Figure 10: Matrix of Pollutants and COVID-19 Deaths
+![result-5](https://user-images.githubusercontent.com/90915655/137561586-0099f290-e62f-47bd-92f0-48d549634c86.jpg)
+
+#### Figure 11: Preview of User Interface for Pollutant Analysis
 ![](https://github.com/darbyna/DATA606_Capstone/blob/main/PRPUIS.JPG?raw=true)
 
 ## Discussion and Conclusion
