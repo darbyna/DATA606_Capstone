@@ -94,11 +94,13 @@ HTML, CSS, and Javascript for the Front-End.
     between Carbon     monoxide and Increasedeath. From the figure it can be seen that less effect of Carbon Monoxide againist the target. 
        
 #### Figure 10: Matrix of Pollutants and COVID-19 Deaths
-
+    
+   #### The heat map depicting the relationship of the gaseous elements.From the graph, we can see that as one read from bottom to top -
+   #### bold green , shows strong correlation .N02 and CO have srtong correlation with PM2.5 and Covid death.
+   
 ![result-5](https://user-images.githubusercontent.com/90915655/137561586-0099f290-e62f-47bd-92f0-48d549634c86.jpg)
 
-#### The heat map depicting the relationship of the gaseous elements.From the graph, we can see that as one read from bottom to top -
-#### bold green , shows strong correlation .N02 and CO have srtong correlation with PM2.5 and Covid death. 
+
 
 #### Figure 11: Preview of User Interface for Pollutant Analysis
 
