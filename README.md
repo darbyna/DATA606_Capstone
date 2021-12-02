@@ -21,7 +21,7 @@
 ## Methods
 
 ### Data
-##### The data for this investigation was procured from multiple sources. The pollutant and GIS mapping data data for PM2.5, PM10, SO2, NO2, and CO was procured from the Environmental Protection Agency's (EPA) Open Air Quality dataset. Combined, the pollutant dataset comprised of over 30K data points. Upon being condensed, the dataset simply comprised of 70 rows of data. COVID-19 related data was procured from the Johns Hopkins University GitHub portal. The COVID-19 dataset consists of >800K data points. 
+##### The data for this investigation was procured from multiple sources. The pollutant and GIS mapping data data for PM2.5, PM10, SO2, NO2, and CO was procured from the Environmental Protection Agency's (EPA) Open Air Quality dataset. Combined, the pollutant dataset comprised of over 30K data points. COVID-19 related data was procured from the Johns Hopkins University GitHub portal. The COVID-19 dataset consists of >800K data points. 
 
 ### Exploratory Data Analysis
 ##### The connection between major pollutants(PM2.5 and NO2) and the Air Quality Index, correlation between the species of pollutants and the relation to Covid-19 are the focus areas of the Exploratory Data Analysis. Our Aim is twofold, first to understand the relation between the species of pollutants and second is to understand the relation between the pollutants and the Covid-19. We collected Data from the EPA (To assess the relationship between air pollutant concentrations and COVID-19 fatality in District of Columbia state,we employ daily data at the city level)and We conducted a statistical analysis that confirms possible correlations among the number of daily cases and several factors related to the air quality(Andrea et al.)This work reports a correlation analysis, which is a statistical study that evaluates thestrength and the sign of a relationship between variables i.e between the species of pollutants, mean concentration of pollutants and Air Quality Index(AQI) between 2015 to 2020. On observing the data of PM2.5 we found the boxplot of the "Daily Mean Concentration" and "Daily AQI Value" as in the given figures. 
@@ -108,7 +108,22 @@ HTML, CSS, and Javascript for the Front-End.
 
 ## Discussion and Conclusion
 
-* Will be completed at end of project *
+####Discussion of the Research
+The results indicate that the PM2.5 concentration will be high as a consequence of increased human activity post-quarantine. Studies have shown a correlation between the Air Quality Index, PM2.5, and confounding pollutants (Comunian et al., 2020). This Analysis supports the theory that the PM2.5 concentrations will be rather low during the earlier periods of the COVID-19 pandemic but increase during the later periods as human activity increases. The data suggests that the daily mean of PM2.5 concentration served an important role in discovering the relationship between COVID-19 fatalities and pollutants.
+
+####Interpretation
+In line with the hypothesis, our predictive model showed that PM2.5 concentrations certainly increased upon elevated homosapien activity at the end of 2020. Contrary to the hypothesized association, causal relationship was not proved, the rise in COVID-19 deaths is related to the rise in the pollutants - specifically PM2.5. The result does not contradict with any of the studies as this is novel work and can lead to further research in the study of environment and disease.
+
+####Implication
+These results are based on the existing evidence of PM2.5, PM10, NO2, CO, O3, and SO2 concentration (Keet et al. 2017; Zhang et al. 2019; White et al. 2019; Tecer et al. 2008; Comunian et al. 2020; Shafinaz et al. 2021). The experiment provides a new insight into the relationship between PM2.5 and NO2 (Keet et al. 2017; Zhang et al. 2019; White et al. 2019; Tecer et al. 2008; Comunian et al. 2020; Shafinaz et al. 2021). This result should be taken into account when considering how to measure the environmental factors which could lead to the rise in COVID-19 transmission within the DC area (Keet et al. 2017; Zhang et al. 2019; White et al. 2019; Tecer et al. 2008; Comunian et al. 2020; Shafinaz et al. 2021). The data contributes a concise understanding of PM2.5 concentration’s contribution towards COVID-19 fatalities (Keet et al. 2017; Zhang et al. 2019; White et al. 2019; Tecer et al. 2008; Comunian et al. 2020; Shafinaz et al. 2021).
+
+####Limitation
+The generalizability of the result is limited by the geospatial features which were very limited and only focused on the site of the collection. The reliability of the data is impacted by the source of data generation, as it is unclear as to if the sample collection was based on site location, the county, or zip-code. Due to lack of geospatial features variability we were unable to construct a graph on the basis of county or more precise locations. The methodological choices were constrained by the number of limited features.
+
+####Recommendation 
+Further research is needed to establish if there was any connection between the PM2.5 concentration and lung disease. Further studies should take account of how to select data in order to find the relation between PM2.5 concentration and the Lung diseases. Future studies will also investigate PM2.5, COVID-19 fatalities, and confounding pollutants in the Maryland and Virginia areas.
+
+
 
 ## Citations
 * Convert to proper format when time allows - Before the end of the project *
