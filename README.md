@@ -126,7 +126,6 @@ Further research is needed to establish if there was any connection between the 
 
 
 ## Citations
-* Convert to proper format when time allows - Before the end of the project *
  
 1. Aveyard P, Gao M, Lindson N, Hartmann-Boyce J, Watkinson P, Young D, Coupland C, Tan PS, Clift AK, Harrison D, Gould DW, Pavord ID, Hippisley-Cox J. 2021. Association between pre-existing respiratory disease and its treatment, and severe COVID-19 : a population cohort study. The Lancet Respiratory Medicine. Volume 9. Issue 8. Pages 909-923. Link: https://www.sciencedirect.com/science/article/pii/S2213260021000953
 
