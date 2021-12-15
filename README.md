@@ -1,5 +1,6 @@
 # An Investigation of Particulate Matter 2.5 in the DMV area during the COVID-19 Pandemic
 #### Niko Darby, Snehika Pandey, Tamrat Workineh
+###### Link to Platform GitHub: https://github.com/darbyna/DCPRP
 
 ## Abstract
 
